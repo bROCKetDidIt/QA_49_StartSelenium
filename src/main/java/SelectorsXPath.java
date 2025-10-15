@@ -70,5 +70,4 @@ public class SelectorsXPath {
         SelectorsCss.pause(5);
         driver.quit();
     }
-    //
 }
